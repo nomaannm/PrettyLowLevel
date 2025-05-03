@@ -8,4 +8,4 @@ set(CMAKE_CXX_STANDARD 17)
 set(CMAKE_CXX_STANDARD_REQUIRED True)
 
 # Add the executable target
-add_executable(OS src/ProcessCreation.cpp)
+add_executable(OS src/ProcessManagement.cpp)
